@@ -6,3 +6,4 @@ gender = str(input("Enter your gender: "))
 
 print(f"Hello welcome, {name} your age is {age} and your gender is {gender}")
 print("Done")
+print("OK")
